@@ -40,7 +40,7 @@ Yüz Tanıma Sistemleri (YTS), bir kişinin yüzünü kullanarak kimliğini tan�
 
 ## How to Cite
 
-- **IEEE**: M. Ö. Erdoğan, A. Okatan, U. Uz, F. Yılmaz, and A. Çetinkaya, “Production, and Analysis of a Two-Axis Food Liquid Pouring Machine”, IJET, vol. 8, no. 1, pp. 1–7, 2022, doi: 10.19072/ijet.1060635.	
+- **IEEE**: Ö. F. Aslandoğdu, H. Aydin, and A. Çeti̇nkaya, “Bulut üzerinde Tensorflow Javascript ile geliştirilen Öğretilebilir Makine (ÖM) Modelinin Doğruluk Tahmini ve Analizi: Yüz Tanıma Sistemi Uygulaması,” Uluslararası Yönetim Bilişim Sistemleri Ve Bilgisayar Bilimleri Dergisi, vol. 6, no. 1, pp. 66–77, Jun. 2022, doi: 10.33461/uybisbbd.1106753.
 
 - **APA**: Aslandoğdu, Ö. F., Aydın, H., & Çetinkaya, A. (2022). Bulut üzerinde Tensorflow Javascript ile geliştirilen Öğretilebilir Makine (ÖM) Modelinin Doğruluk Tahmini ve Analizi: Yüz Tanıma Sistemi Uygulaması. Uluslararası Yönetim Bilişim Sistemleri Ve Bilgisayar Bilimleri Dergisi, 6(1), 66-77. https://doi.org/10.33461/uybisbbd.1106753	
 
