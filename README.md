@@ -6,23 +6,16 @@ Bulut üzerinde Tensorflow Javascript ile geliştirilen Öğretilebilir Makine (
 
 ## Authors
 
-- **Muhammet Ömer Erdoğan**  
+- **Ömer Faruk Aslandoğdu**  
   Technology Transfer Office Application and Research Centre, Istanbul Gelisim University, Avcilar, Istanbul, Türkiye
 
-- **Ali Okatan**  
+- **Hakan Aydın**  
   Department of Computer Engineering, Faculty of Engineering and Architecture, Istanbul Gelisim University, Istanbul, Turkey
 
-- **Umut Uz**  
-  Technology Transfer Office Application and Research Centre, Istanbul Gelisim University, Avcilar, Istanbul, Türkiye
-
-- **Furkan Yılmaz**  
-  Technology Transfer Office Application and Research Centre, Istanbul Gelisim University, Avcilar, Istanbul, Türkiye
-
 - [**Ali Çetinkaya**](https://scholar.google.com.tr/citations?user=XSEW-NcAAAAJ)  
-  Technology Transfer Office Application and Research Centre, Istanbul Gelisim University, Avcilar, Istanbul, Türkiye  
   Department of Electronics Technology, Istanbul Gelisim Vocational School, Istanbul Gelisim University, Istanbul, Turkey  
 
-*For Correspondence: moerdogan@gelisim.edu.tr*
+*For Correspondence: alcetinkaya@gelisim.edu.tr*
 
 ## Article Information
 - **Received**: February 15, 2022  
