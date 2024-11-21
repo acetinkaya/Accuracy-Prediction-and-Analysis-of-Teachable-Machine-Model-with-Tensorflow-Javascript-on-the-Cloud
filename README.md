@@ -50,5 +50,5 @@ Yüz Tanıma Sistemleri (YTS), bir kişinin yüzünü kullanarak kimliğini tan�
 
 Bu eser [Creative Commons Atıf-GayriTicari 4.0](https://creativecommons.org/licenses/by-nc/4.0/) Uluslararası Lisansı ile lisanslanmıştır.
 
-![alternatif metin](https://github.com/acetinkaya/Production-and-Analysis-of-a-Two-Axis-Food-Liquid-Pouring-Machine/blob/main/ProductionPancake.png)
+![alternatif metin](https://github.com/acetinkaya/Accuracy-Prediction-and-Analysis-of-Teachable-Machine-Model-with-Tensorflow-Javascript-on-the-Cloud/blob/main/tm1.png)
 
