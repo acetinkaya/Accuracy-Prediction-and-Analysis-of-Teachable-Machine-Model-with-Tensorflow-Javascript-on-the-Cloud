@@ -18,8 +18,8 @@ Bulut üzerinde Tensorflow Javascript ile geliştirilen Öğretilebilir Makine (
 *For Correspondence: alcetinkaya@gelisim.edu.tr*
 
 ## Article Information
-- **Received**: February 15, 2022  
-- **Accepted**: August 10, 2022
+- **Received**: April 15, 2022  
+- **Accepted**: June 10, 2022
 - **DOI:** 10.19072/ijet.1060635
 - **Full Article Access Link**: [Production, and Analysis of a Two-Axis Food Liquid Pouring Machine](https://dergipark.org.tr/en/pub/ijet/issue/72953/1060635)
 
