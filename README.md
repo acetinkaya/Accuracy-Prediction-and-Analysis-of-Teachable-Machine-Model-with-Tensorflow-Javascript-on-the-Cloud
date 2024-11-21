@@ -31,7 +31,11 @@ Face Recognition Systems (FRS) is a category of biometric security used as a way
 
 Keywords: Artificial Intelligence, Cloud Computing, Face Recognition System, Teaching Machine
 
+Özet: 
 
+Yüz Tanıma Sistemleri (YTS), bir kişinin yüzünü kullanarak kimliğini tanımlamanın veya doğrulamanın bir yolu olarak kullanılan bir biyometrik güvenlik kategorisidir. Literatürde YTS çalışmalarında sıklıkla farklı Yapay Zekâ (YZ) teknik ve yöntemlerinin kullanıldığı görülmektedir. Bu modeller çoğunlukla seçilen programlama dilleri ile kodlamada yapılmak suretiyle oluşturulmakta, eğitilmekte, test edilmekte ve bu işlem adımları en yüksek başarı oranı elde edilinceye kadar tekrarlanmaktadır. Öğretilebilir Makine (Teachable Machine, ÖM), YZ modelleri oluşturmayı hızlı, kolay ve herkes için erişilebilir hale getiren web tabanlı bir araçtır. Bu çalışmada herhangi bir kodlamada yapmadan kullanıcıların kendi derin öğrenme modellerini geliştirmelerine imkân sağlayan ÖM teknolojisini kullanmak suretiyle Tensorflow Javascript teknolojileri ile bulut tabanlı bir YTS sisteminin (YTS-ÖM) geliştirilmesi amaçlanmıştır. Çalışma kapsamında gerçekleştirilen deneylerde YTS-ÖM’nin başarı oranı %99.8 olarak ölçülmüştür. Bu çalışmanın özellikle YTS modellerinin kullanıcılar tarafından geliştirilmesi açısından YZ çalışma alanına katkı sağlayacağı değerlendirilmektedir.
+
+Anahtar Kelimeler: Yapay Zekâ, Bulut Bilişim, Yüz Tanıma Sistemi, Öğretilebilir Makine.
 
 
 ## How to Cite
