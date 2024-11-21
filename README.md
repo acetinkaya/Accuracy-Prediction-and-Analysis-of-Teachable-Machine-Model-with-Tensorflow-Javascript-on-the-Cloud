@@ -27,9 +27,12 @@ Bulut üzerinde Tensorflow Javascript ile geliştirilen Öğretilebilir Makine (
 
 Abstract
 
-People always want to feel special and different. This demand has not left us alone in the food sector and has improved itself as culinary arts and presentations. So much so that there are masters who can transform food liquids, such as pancake liquids, into art by making special shapes on them based on demand. As in every sector, the effects of technology are also seen here. Considering these needs and developments, this study focused on the production and tests of machines that would convert the drawings designed by people with the help of computers into food liquid. The machine, produced in the context of the study, has a two-axis mechanical structure and gives shape to the food liquid with the commands coming from a computer and the liquid pouring chamber. While this machine aims to provide convenience to people in terms of time and ability, it also contributes to the developing technology in the kitchen sector. As the machine’s working principle, a drawing is created first with shapes that people can draw on a tablet or a computer in front of them if they want, or they can choose ready-made. Then, this drawing is converted to g code via the program and the movement coordinates of the pouring mouth of the machine are created. The system, controlled by a microprocessor, drives the motors and performs the operation. While the pouring process is supported with the help of a chamber air control system in which the food liquid is located, the cooking of the food liquid is ensured by the heat-adjustable tray under it.
+Face Recognition Systems (FRS) is a category of biometric security used as a way to identify or verify a person's identity using their face. In the literature, it is seen that different Artificial Intelligence (AI) techniques and methods are frequently used in FRS studies. These models are first created, trained, tested by coding with selected programming languages, and these steps are repeated until the highest success rate is reached. Teachable Machine (TM) is a web-based tool that makes building AI models fast, easy and accessible to everyone. In this study, it is aimed to develop a cloud-based FRS system (FRS-TM) with Tensorflow Javascript technologies by using the TM technology that allows users to develop their own deep learning models without any coding. In the experiments carried out within the scope of the study, the success rate of FRS-TM was measured as 99.8%. It is thought that this study will contribute to the field of AI study, especially in terms of the development of YTS models by users.
 
-Keywords: Two axis machine, Kitchen, Pancake
+Keywords: Artificial Intelligence, Cloud Computing, Face Recognition System, Teaching Machine
+
+
+
 
 ## How to Cite
 
