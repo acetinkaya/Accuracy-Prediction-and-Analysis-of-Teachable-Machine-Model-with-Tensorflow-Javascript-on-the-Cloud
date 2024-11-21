@@ -7,7 +7,7 @@ Bulut üzerinde Tensorflow Javascript ile geliştirilen Öğretilebilir Makine (
 ## Authors
 
 - **Ömer Faruk Aslandoğdu**  
-  Technology Transfer Office Application and Research Centre, Istanbul Gelisim University, Avcilar, Istanbul, Türkiye
+  Department of Computer Engineering, Faculty of Engineering and Architecture, Istanbul Gelisim University, Istanbul, Turkey
 
 - **Hakan Aydın**  
   Department of Computer Engineering, Faculty of Engineering and Architecture, Istanbul Gelisim University, Istanbul, Turkey
