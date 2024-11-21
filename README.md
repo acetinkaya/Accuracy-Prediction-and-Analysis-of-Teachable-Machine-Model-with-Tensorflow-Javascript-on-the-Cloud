@@ -21,7 +21,7 @@ Bulut üzerinde Tensorflow Javascript ile geliştirilen Öğretilebilir Makine (
 - **Received**: April 22, 2022  
 - **Accepted**: June 08, 2022
 - **DOI:** 10.33461/uybisbbd.1106753
-- **Full Article Access Link**: [Production, and Analysis of a Two-Axis Food Liquid Pouring Machine](https://dergipark.org.tr/en/pub/ijet/issue/72953/1060635)
+- **Full Article Access Link**: [Production, and Analysis of a Two-Axis Food Liquid Pouring Machine](https://dergipark.org.tr/en/pub/uybisbbd/article/1106753)
 
 ![alternatif metin](https://github.com/acetinkaya/Accuracy-Prediction-and-Analysis-of-Teachable-Machine-Model-with-Tensorflow-Javascript-on-the-Cloud/blob/main/tm3.png)
 
